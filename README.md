@@ -18,6 +18,13 @@ I have the paper folding sequence for the 12 iteration which has 4095 binary dig
 I can get any level from one to 12 by taking (2**N)-1.  The paper folding sequence for level 3 is (2**3)-1 = 7 digits long.
 
 
+see it live:
+
+https://greggelong.github.io/paperDragon
+
+the level is mapped to the mouse X movement
+
+
 
 
 I found these resources the most helpful:
