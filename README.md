@@ -11,6 +11,15 @@ If it is a "1" the turtle goes left, if "0" the turtle goes right.
 
 I read Jurassic park, I didn't remember this curve was in the book. Some good Numberphile videos about it too.
 
+I am not generating the paper folding sequence in the sketch.
+
+I have the paper folding sequence for the 12 iteration which has 4095 binary digits.
+
+I can get any level from one to 12 by taking (2**N)-1.  The paper folding sequence for level 3 is (2**3)-1 = 7 digits long.
+
+
+
+
 I found these resources the most helpful:
 https://mathworld.wolfram.com/DragonCurve.html
 wolfram has a list of references, and a description of a simple method to create
