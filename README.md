@@ -24,7 +24,9 @@ https://greggelong.github.io/paperDragon
 
 the level is mapped to the mouse X movement
 
-
+## nice quote about fractals from the fictional character Ian Malcom:
+> A day is like a whole life. You start out doing one thing, but end up doing something else, plan to run an errand, but never get there... And at the end of your life, > your whole existence has that same haphazard quality, too. Your whole life has the same shape as a single day.”
+> ― Michael Crichton, Jurassic Park 
 
 
 I found these resources the most helpful:
